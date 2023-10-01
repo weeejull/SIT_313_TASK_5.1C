@@ -1,0 +1,48 @@
+.question-article-box {
+  width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+
+.question-article-box input[type="text"],
+.question-article-box textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.question-article-box button {
+  background-color: #8a2d2d;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.question-article-box button:hover {
+  background-color: #000000;
+}
+
+.heading {
+  font-size: larger;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+input[type="radio"] {
+  margin-right: 10px;
+}
+
+.input-group:last-child {
+  margin-bottom: 20px;
+}
